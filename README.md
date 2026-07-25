@@ -20,11 +20,11 @@ This repository documents my learning journey in Python for Data Analysis throug
 
 ### 🚗 Project 01 — Saudi Used Cars Analysis
 
-**Description:**
+**Description**
 
 Exploratory Data Analysis (EDA) of more than **8,000** used car listings in Saudi Arabia using Python.
 
-**Skills Applied:**
+**Skills Applied**
 
 - Data Cleaning
 - Data Visualization
@@ -33,13 +33,19 @@ Exploratory Data Analysis (EDA) of more than **8,000** used car listings in Saud
 - NumPy
 - Matplotlib
 
-**Key Insights:**
+**Key Findings**
 
 - Toyota is the most common car brand.
 - Luxury brands have the highest average prices.
 - Newer cars generally have higher prices.
-- Automatic cars are more expensive than manual cars.
-- Hybrid vehicles have the highest average price.
+- Automatic cars have a higher average price than manual cars.
+- Hybrid vehicles have the highest average price in this dataset.
+- Higher mileage is generally associated with lower prices.
+
+**Files**
+
+- `Saudi_Used_Cars_Analysis.ipynb`
+- `UsedCarsSA.csv`
 
 More projects will be added as I continue my Data Science journey.
 
